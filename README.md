@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+# nerf-app
+
 1. 촬영 화면
 <img width="418" height="863" alt="image" src="https://github.com/user-attachments/assets/46cd205d-7ff5-4e45-af6e-e4a812111235" />
 
